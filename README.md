@@ -7,6 +7,8 @@ Famous Computers
 | -------------             | -------------  | ------------- | 
 | Apollo Guidance Computer  |  Apollo command module (CM) and Apollo Lunar Module (LM) | [[1]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer) | 
 | Intel 80386SX  | ISS  | | 
+| NASA Standard Spacecraft Computer-1 (NSSC-1)  | Hubble Space Telescope | [[1]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer) | 
+
 
 
 CubeSat Computers
