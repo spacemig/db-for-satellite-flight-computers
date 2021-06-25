@@ -1,6 +1,5 @@
-# list space computers
-A simple list of satellite flight computers
-
+# List of Space Computers
+A simple list of satellite flight computers (feel free to contribute)
 
 Famous Computers
 
